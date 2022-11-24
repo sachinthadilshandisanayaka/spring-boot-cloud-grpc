@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+    <modules>
+        <module>client-service</module>
+        <module>grpc-service</module>
+        <module>proto</module>
+    </modules>
+    <groupId>com.spring-boot-grpc.assignment</groupId>
+    <artifactId>spring-boot-grpc</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>spring-boot-grpc</name>
+    <description>Assignment 02 GRPC</description>
+    <developers>
+        <developer>
+            <name>Sachintha Dilshan</name>
+            <email>sachidisnayaka98@gmail.com</email>
+        </developer>
+    </developers>
+</project>
